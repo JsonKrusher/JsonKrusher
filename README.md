@@ -1,26 +1,19 @@
-# 👋🏼 Hello, My Name is Jake!
+<h1>👋🏼 Hello, My Name is Jake! </h1>
 
-## 📈 Github Stats
+<h2> 📈 Github Stats </h2>
 
----
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=jsonkrusher&show_icons=true&theme=radical)
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsonkrusher&theme=radical)
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonkrusher&layout=compact&theme=radical" alt="Top Languages"></div>
 
----
-
-### Time Spent Coding This Week
+## ⏱️ Time Spent Coding This Week
 ![Coding Time](https://wakatime.com/share/@JsonKrusher/527c018d-fbb7-4a13-a91b-6266d9bfae73.svg)
 
 ## 🏆 Qualifications
 
----
-
 ### Comptia ITF+
 #### Grade
 - Pass
-
----
 
 ### Gateway Qualifications Level 2 Certificate in Digital and Creative Industries
 #### Modules
@@ -30,15 +23,11 @@
 #### Overall Grade
 - Distinction
 
----
-
 ### T Level in Digtial Production, Design and Development
 #### Grade
 - BBB
 #### Work Placement
 - WRS Systems
-
----
 
 ## ✨ Experience 
 
