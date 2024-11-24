@@ -2,9 +2,11 @@
 
 <h2> 📈 Github Stats </h2>
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=jsonkrusher&show_icons=true&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jsonkrusher&theme=radical)
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonkrusher&layout=compact&theme=radical" alt="Top Languages"></div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jsonkrusher&show_icons=true&theme=radical" alt="Overall Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsonkrusher&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonkrusher&layout=compact&theme=radical" alt="Top Languages">
+</div>
 
 ## ⏱️ Time Spent Coding This Week
 ![Coding Time](https://wakatime.com/share/@JsonKrusher/527c018d-fbb7-4a13-a91b-6266d9bfae73.svg)
