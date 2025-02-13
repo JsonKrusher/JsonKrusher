@@ -3,10 +3,10 @@
 <h2> 📈 Github Stats </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsonkrusher&show_icons=true&theme=radical" alt="Overall Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsonkrusher&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=jacobkulik&show_icons=true&theme=radical" alt="Overall Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jacobkulik&theme=radical" alt="Top Languages">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsonkrusher&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacobkulik&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ## ⏱️ Time Spent Coding This Week
