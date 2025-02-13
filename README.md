@@ -55,5 +55,5 @@ At the age of 12 I started learning Malware Development and would go onto explor
 
 
 ## 📬 Contact
-- **Discord**:    JsonKrusher
+- **Discord**:    jacobkulik
 - **Instagram**:  JsonKrusher
